@@ -1,0 +1,13 @@
+h1 {
+  color: rgb(35, 29, 33);
+  font-family: cursive;
+  font-size: 100px;
+}
+
+.socialMedia svg {
+  color: rgb(60, 43, 219);
+  margin: 20px;
+  font-size: 100px;
+  cursor: pointer;
+  padding-bottom: 30px;
+}
